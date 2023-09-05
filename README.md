@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Arunsarma07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C#, Angular, API.NET 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Narasimha Arun.
+- 👀 I have 2+ years of experience as a Full stack developer working in L&T Technology Services. 
+- 🌱 Currently pursuing my Master's in Computer Science at Arizona State University and will be graduating in December 2023.
+- 💞️ I’m looking for Internship / Full-time opportunities in the Tech field.  
+- 📫 You can reach me at arunsarma02@gmail.com
 
 <!---
 Arunsarma07/Arunsarma07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

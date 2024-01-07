@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for **Full time SDE roles**
 
-- 💬 Ask me about **Software Engineering, Full tsack development, Movies, Web series and music.**
+- 💬 Ask me about **Software Engineering, Full stack development, Movies, Web series and music.**
 
 - 📫 How to reach me **arunsarma02@gmail.com**
 

@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narasimha Arun Oruganti</h1>
-<h3 align="center">Software Engineer, Tech enthusiast</h3>
-
-- 🔭 I’m currently looking for **Full time SDE roles**
+<h3 align="center">Software Development Engineer @ Amazon Web Services (ElastiCache), Tech enthusiast</h3>
 
 - 💬 Ask me about **Software Engineering, Full tsack development, Movies, Web series and music.**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narasimha Arun Oruganti</h1>
 <h3 align="center">Software Development Engineer @ Amazon Web Services (ElastiCache), Tech enthusiast</h3>
 
-- 💬 Ask me about **Software Engineering, Full tsack development, Movies, Web series and music.**
+- 💬 Ask me about **Software Engineering, Full stack development, Movies, Web series, and music.**
 
 - 📫 How to reach me **arunsarma02@gmail.com**
 
